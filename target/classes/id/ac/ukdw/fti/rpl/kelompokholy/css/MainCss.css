@@ -1,0 +1,12 @@
+.root {
+
+}
+
+.sidebar-button:hover {
+    -fx-background-color: #00363a;
+}
+
+.header-box {
+    -fx-background-color: #00796b;
+}
+
